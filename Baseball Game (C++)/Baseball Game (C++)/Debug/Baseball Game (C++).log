@@ -1,0 +1,3 @@
+﻿  BBG.cpp
+C:\Users\301-19\source\repos\Baseball Game (C++)\Baseball Game (C++)\BBG.cpp(167): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Baseball Game (C++).vcxproj -> C:\Users\301-19\source\repos\Baseball Game (C++)\Debug\Baseball Game (C++).exe
